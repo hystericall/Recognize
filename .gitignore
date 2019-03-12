@@ -1,0 +1,10 @@
+# Bo qua dataset
+dataset/quoc/
+dataset/sinh/
+dataset/son/
+dataset/unknown/
+
+# Bo qua hidden system files
+
+.DS_Store
+dataset/.DS_Store
